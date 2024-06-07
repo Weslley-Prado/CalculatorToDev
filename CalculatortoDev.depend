@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1717724374 source:/home/weslleyprado/Desktop/Engineering/Trainings/IA & Machine Learning/projectincc/CalculatortoDev/main.c
+	<stdio.h>
+	<stdlib.h>
+	"include/calculator.h"
+
+1717724480 /home/weslleyprado/Desktop/Engineering/Trainings/IA & Machine Learning/projectincc/CalculatortoDev/include/calculator.h
+
+1717724558 source:/home/weslleyprado/Desktop/Engineering/Trainings/IA & Machine Learning/projectincc/CalculatortoDev/calculator.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"./include/calculator.h"
+
